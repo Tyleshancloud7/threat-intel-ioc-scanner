@@ -1,0 +1,15 @@
+{
+  "malicious_ips": [
+    "185.220.101.1",
+    "192.168.1.10",
+    "45.33.32.156"
+  ],
+  "malicious_domains": [
+    "evil-domain.com",
+    "malware-download.net"
+  ],
+  "malicious_hashes": [
+    "5f4dcc3b5aa765d61d8327deb882cf99",
+    "098f6bcd4621d373cade4e832627b4f6"
+  ]
+}

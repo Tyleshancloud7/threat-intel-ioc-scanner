@@ -1,0 +1,5 @@
+User login from 192.168.1.10
+Connection to evil-domain.com detected
+File hash detected: 5f4dcc3b5aa765d61d8327deb882cf99
+User login from 10.0.0.5
+Connection to google.com
