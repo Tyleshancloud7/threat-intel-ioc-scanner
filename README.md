@@ -110,5 +110,6 @@ Future enhancements could include:
 ## Author
 
 Tylesha Alexander
-Cybersecurity Student | SOC Analyst Path | Security Automation
+Cybersecurity  | SOC Analyst Path | Security Automation
+
 
